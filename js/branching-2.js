@@ -1,4 +1,4 @@
-const inputData = 'ECMAScript';
+const inputData = prompt('Яка офіційна назва JavaScript');
 
 if (inputData === 'ECMAScript') {
     console.log('Правильно!');
